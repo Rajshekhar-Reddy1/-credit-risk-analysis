@@ -51,14 +51,4 @@ Some other accessories datasets have been downloaded from [Kaggle](https://www.k
 ## Where the companies are placed?
 In the following figure you can get an idea on where the companies inside the main dataset are geographically located.
 
-<img src="./presentation/img/companies-locs.png"><br>
 
-# Contact
-In case you need some further details you can contact directly me. <br><br>
-<a href="mailto:amatofrancesco99@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-***
-
-<br>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
